@@ -1,0 +1,1 @@
+{"model": "Decision Tree", "train_accuracy": 0.6392822265625, "val_accuracy": 0.525390625, "cv_mean_accuracy": 0.6193864301246852, "cv_std_accuracy": 0.016936718269038094, "training_time": 0.2497110366821289}

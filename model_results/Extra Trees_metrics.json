@@ -1,0 +1,1 @@
+{"model": "Extra Trees", "train_accuracy": 0.7816162109375, "val_accuracy": 0.6240234375, "cv_mean_accuracy": 0.7656240105904535, "cv_std_accuracy": 0.01047385228410488, "training_time": 0.24045896530151367}

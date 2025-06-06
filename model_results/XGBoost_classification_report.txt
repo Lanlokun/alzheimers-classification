@@ -1,0 +1,10 @@
+                      precision    recall  f1-score   support
+
+     Mild Impairment       0.76      0.98      0.86       512
+ Moderate Impairment       1.00      0.99      1.00       512
+       No Impairment       0.45      0.36      0.40       512
+Very Mild Impairment       0.40      0.37      0.38       512
+
+            accuracy                           0.68      2048
+           macro avg       0.65      0.68      0.66      2048
+        weighted avg       0.65      0.68      0.66      2048

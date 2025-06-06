@@ -1,0 +1,1 @@
+{"model": "XGBoost", "train_accuracy": 0.9766845703125, "val_accuracy": 0.67626953125, "cv_mean_accuracy": 0.8670654476023604, "cv_std_accuracy": 0.004963926950733277, "training_time": 0.9335887432098389}

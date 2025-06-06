@@ -1,0 +1,1 @@
+{"model": "Random Forest", "train_accuracy": 0.754638671875, "val_accuracy": 0.61376953125, "cv_mean_accuracy": 0.7298578379115293, "cv_std_accuracy": 0.005641405240006591, "training_time": 0.9091839790344238}
